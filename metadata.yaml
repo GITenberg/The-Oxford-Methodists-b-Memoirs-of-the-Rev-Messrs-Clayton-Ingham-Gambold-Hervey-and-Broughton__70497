@@ -1,0 +1,39 @@
+_repo: The-Oxford-Methodists-b-Memoirs-of-the-Rev-Messrs-Clayton-Ingham-Gambold-Hervey-and-Broughton__70497
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tyerman, L. (Luke)
+    alias: Tyerman, Luke
+    birthdate: 1819
+    deathdate: 1889
+    gutenberg_agent_id: '42671'
+    url: http://www.gutenberg.org/2009/agents/42671
+description: '"The present book is intended to serve as a companion volume to the
+  author''s ''The life and times of Wesley.''"'
+gutenberg_issued: '2023-04-07'
+identifiers:
+  gutenberg: '70497'
+  lccn: '26005875'
+language: en
+pgterms:marc904: https://archive.org/details/oxfordmethodists00tyeruoft/page/n7
+pgterms:marc905: 20190219104039tyerman
+pgterms:marc906: '1873'
+pgterms:marc907: us
+production_note: Brian Wilson, MFR and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bHarper & Brothers, Publishers, $c1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Methodism'
+- !lcsh 'Ingham, Benjamin, 1712-1772'
+- !lcsh 'Gambold, John, 1711-1771'
+- !lcsh 'Hervey, James, 1714-1758'
+- !lcsh 'Broughton, Thomas, 1712-1777'
+- !lcc 'BX'
+- GITenberg
+title: 'The Oxford Methodists : $b Memoirs of the Rev. Messrs. Clayton, Ingham, Gambold,
+  Hervey, and Broughton, with biographical notices of others'
+url: http://www.gutenberg.org/ebooks/70497
