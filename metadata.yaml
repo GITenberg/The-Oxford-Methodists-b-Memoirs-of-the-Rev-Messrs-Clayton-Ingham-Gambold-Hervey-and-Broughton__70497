@@ -1,5 +1,8 @@
 _repo: The-Oxford-Methodists-b-Memoirs-of-the-Rev-Messrs-Clayton-Ingham-Gambold-Hervey-and-Broughton__70497
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70497-h/images/cover.jpg
 creator:
   author:
     agent_name: Tyerman, L. (Luke)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42671
 description: '"The present book is intended to serve as a companion volume to the
   author''s ''The life and times of Wesley.''"'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70497#The-Oxford-Methodists-b-Memoirs-of-the-Rev-Messrs-Clayton-Ingham-Gambold-Hervey-and-Broughton_
 gutenberg_issued: '2023-04-07'
 identifiers:
   gutenberg: '70497'
